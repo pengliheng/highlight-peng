@@ -1,0 +1,22 @@
+{
+  "name": "highlight-peng",
+  "version": "1.0.0",
+  "description": "i want to reduce react-syntax-highlighter size",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pengliheng/highlight-peng.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "pengliheng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pengliheng/highlight-peng/issues"
+  },
+  "homepage": "https://github.com/pengliheng/highlight-peng#readme"
+}
